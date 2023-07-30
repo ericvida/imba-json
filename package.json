@@ -1,5 +1,5 @@
 {
-    "name": "2023-lowdb",
+    "name": "imba-json",
     "license": "MIT",
     "private": true,
     "type": "module",
@@ -18,7 +18,8 @@
         "express": "^4.18.2",
         "file-system-db": "^2.0.0",
         "imba": "^2.0.0-alpha.229",
-        "nanoid": "^4.0.2"
+        "nanoid": "^4.0.2",
+        "normalize-obj": "^0.2.0"
     },
     "devDependencies": {
         "@types/express": "^4.17.17"
